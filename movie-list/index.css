@@ -1,0 +1,24 @@
+body{
+    padding: 1rem 4rem;
+    background-image: url("starwarsbg1.jpg");
+    color: white;
+}
+section > div{
+    width: 80%;
+    margin: 1rem auto;
+}
+h1{
+    text-align: center;
+}
+p.leaf{
+    text-align: center;
+}
+p{
+    color: white;
+}
+label{
+    color: white;
+}
+button{
+    color: white;
+}
